@@ -1,0 +1,11 @@
+﻿  Cloth.cpp
+  Customer.cpp
+  main.cpp
+  Mall.cpp
+  MallUI.cpp
+c:\users\anderson\desktop\物件導向oop\107590023_hw10\107590023_hw10\mallui.cpp(282): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\anderson\desktop\物件導向oop\107590023_hw10\107590023_hw10\mallui.cpp(322): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Order.cpp
+  Shop.cpp
+  正在產生程式碼...
+  107590023_HW10.vcxproj -> C:\Users\Anderson\Desktop\物件導向oop\107590023_HW10\x64\Debug\107590023_HW10.exe
